@@ -1,0 +1,22 @@
+.invalid {
+    border: 1px solid red !important;
+}
+#form1 {
+    width: 20%;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.fname,
+.lname,
+.email,
+.address,
+.all {
+    display: none;
+}
+.show {
+    display: block;
+}
+.showInline {
+    display: inline;
+    margin-left: 5px;
+}
